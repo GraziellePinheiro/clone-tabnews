@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Hello World! XD kkkkkkk</h1>;
+  return <h1>Mensagem Alterada!</h1>;
 }
 
 function teste() {
