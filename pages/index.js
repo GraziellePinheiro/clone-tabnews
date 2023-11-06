@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Oi zinquinho, que noite sensacional! kkkk</h1>;
+  return <h1>URL alocada e em funcionamento!</h1>;
 }
 
 function teste() {
